@@ -1,0 +1,18 @@
+.conatiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.text {
+  height: 40px;
+  margin-right: 10px;
+  border-radius: 8px;
+  border: solid 1px color rgb(26, 25, 25);
+}
+
+.btn {
+  height: 40px;
+  width: 150px;
+}
